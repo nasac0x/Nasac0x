@@ -3,8 +3,8 @@
 Estudante de Desenho Industrial (UFF) que também gosta de programar e construir projetos próprios.
 
 <table>
-  <a href="https://github.com/SEU_USUARIO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/nasac0x">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nasac0x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </table>
