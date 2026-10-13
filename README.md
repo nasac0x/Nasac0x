@@ -1,6 +1,6 @@
-# Hello World, eu sou o Victor, sinta-se bem-vindo(a) 👋
+# Fancy seeing you here! 👋
 
-Estudante de Desenho Industrial (UFF) que também gosta de programar e construir projetos próprios.
+I am Victor Oliveira, an Industrial Design student at Universidade Federal Fluminense (UFF) in Brazil. I am a tech enthusiast who loves building things, from physical products to apps. Always open to collaborating on projects and innovative ideas. Feel free to connect with me below:
 
 <table>
   <a href="https://github.com/nasac0x">
